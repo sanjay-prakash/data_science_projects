@@ -1,7 +1,8 @@
 # Color detection
  Use this command in cmd/terminal <br/>
  > python color_detection.py -i (add your image path here) <br/> 
- To go to repository click this [link]
+ 
+ To go to repository click this [link](https://github.com/sanjay-prakash/color_detection_opencv)
  
   
  
